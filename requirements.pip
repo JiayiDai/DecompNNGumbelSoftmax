@@ -1,0 +1,5 @@
+torch
+numpy
+tyro==0.8.5
+tabulate
+gymnasium==0.29.1
